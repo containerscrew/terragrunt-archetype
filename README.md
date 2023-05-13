@@ -1,5 +1,5 @@
 <p align="center" >
-    <img src="logo.png" alt="logo" width="500"/>
+    <img src="logo.png" alt="logo" width="350"/>
 <h3 align="center">Terragrunt AWS archetype</h3>
 <p align="center">Terragrunt example repository structure to manage my cloud resources using IaC</p>
 </p>

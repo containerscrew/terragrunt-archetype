@@ -32,3 +32,16 @@ override.tf.json
 # Ignore CLI configuration files
 .terraformrc
 terraform.rc
+
+# Terragrunt
+.terragrunt-cache
+terragrunt.iml
+
+# IDE
+.vscode
+.idea
+
+# Ignore `bin` dir
+bin/
+# or
+*/bin/*

@@ -39,7 +39,7 @@ terragrunt.iml
 
 # IDE
 .vscode
-.idea
+.idea/
 
 # Ignore `bin` dir
 bin/

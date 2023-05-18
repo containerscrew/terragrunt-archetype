@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# for activating terraform version specified in .terraform-version when using tfenv
-
 # USAGE
 
 #   before_hook "tfenv" {
